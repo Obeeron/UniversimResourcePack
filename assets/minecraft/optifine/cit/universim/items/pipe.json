@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "./pipe",
-		"particle": "./Downloads/pie"
+		"particle": "./pipe"
 	},
 	"elements": [
 		{
