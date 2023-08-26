@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./stone_slab",
-		"particle": "./stone_slab"
+		"0": "./stone_tablet_blank",
+		"particle": "./stone_tablet_blank"
 	},
 	"elements": [
 		{
@@ -67,12 +67,11 @@
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
-			"translation": [0, -2.25, 11.75],
-			"scale": [2, 2, 2]
+			"translation": [0, 4, 0]
 		},
 		"gui": {
-			"rotation": [-17, 147, 11],
-			"translation": [2.25, 10.75, 0],
+			"rotation": [16, -37, -4],
+			"translation": [0, 11.5, 0],
 			"scale": [2, 2, 2]
 		},
 		"head": {
