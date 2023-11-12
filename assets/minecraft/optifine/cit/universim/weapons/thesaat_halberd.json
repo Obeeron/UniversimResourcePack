@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "./faargost_hallebarde",
-    "particle": "./faargost_hallebarde"
+    "0": "./thesaat_halberd",
+    "particle": "./thesaat_halberd"
   },
   "elements": [
     {
