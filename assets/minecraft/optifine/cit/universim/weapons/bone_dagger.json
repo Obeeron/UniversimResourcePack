@@ -196,15 +196,15 @@
 			"translation": [0, 4.25, 0]
 		},
 		"gui": {
-			"rotation": [-77.19, -54.46, -82.44],
+			"rotation": [-77.19, -44, -82.44],
 			"translation": [0, -0.25, 0]
 		},
 		"head": {
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
-			"rotation": [-90, 46.25, 92.25],
-			"translation": [0, 0, -2.25],
+			"rotation": [-90, 46.25, 89],
+			"translation": [0, 0, -0.25],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
