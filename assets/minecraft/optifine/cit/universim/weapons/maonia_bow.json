@@ -152,12 +152,11 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 38.5, 0],
-			"translation": [1.25, 0, 2]
+			"translation": [0.5, 0, 1.75]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, 46.25, 0],
-			"translation": [1.25, 0, 1.75]
+			"rotation": [-20, 48, 90],
+			"translation": [-7, -6.5, 10]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 6.5, -10.75],
@@ -187,16 +186,12 @@
 			"name": "arco",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "flecha",
 			"origin": [8, 0, 0.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [9, 10]
 		}
 	]
