@@ -45,13 +45,20 @@
 		"firstperson_lefthand": {
 			"translation": [0, 3.25, 0]
 		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2.25, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
 		"gui": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 2, 0]
+			"translation": [0, 2.5, 0],
+			"scale": [1.25, 1.25, 1.25]
 		},
 		"fixed": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 2, 0]
+			"translation": [0, 2, 0],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
