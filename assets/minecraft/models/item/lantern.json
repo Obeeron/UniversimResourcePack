@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by RyanCR, adjusted by Ergenor",
 	"parent": "item/flat",
 	"textures": {
 		"0": "item/lantern",
@@ -46,12 +46,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [70, 0, 0],
-			"translation": [0, -3, -3.5],
+			"translation": [0, -3, -2.5],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [70, 0, 0],
-			"translation": [0, -3, -3.5],
+			"translation": [0, -3, -2.5],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {

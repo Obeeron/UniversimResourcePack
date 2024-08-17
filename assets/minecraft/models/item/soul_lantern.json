@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by RyanCR, adjusted by Ergenor",
 	"parent": "item/flat",
 	"textures": {
 		"0": "item/soul_lantern",
