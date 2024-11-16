@@ -1,6 +1,12 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/armor_stand"
-  }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000}, "model": "planter/p0" },
+		{ "predicate": { "custom_model_data": 17700}, "model": "item/armor_stand/zsbsieve" },
+		{ "predicate": { "custom_model_data": 17701}, "model": "item/armor_stand/zsbcompost" },
+		{ "predicate": { "custom_model_data": 17702}, "model": "item/armor_stand/zsbcrafter" }
+	]
 }
