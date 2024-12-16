@@ -71,7 +71,7 @@
 		{
 			"name": "we",
 			"from": [5, 9, 2],
-			"to": [5, 21, 14],
+			"to": [5, 27, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 17, 8]},
 			"faces": {
 				"north": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
@@ -85,7 +85,7 @@
 		{
 			"name": "we2",
 			"from": [11, 9, 2],
-			"to": [11, 21, 14],
+			"to": [11, 27, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 17, 8]},
 			"faces": {
 				"north": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
@@ -99,7 +99,7 @@
 		{
 			"name": "sn",
 			"from": [2, 9, 11],
-			"to": [14, 21, 11],
+			"to": [14, 27, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 15]},
 			"faces": {
 				"north": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
@@ -113,7 +113,7 @@
 		{
 			"name": "sn2",
 			"from": [2, 9, 5],
-			"to": [14, 21, 5],
+			"to": [14, 27, 5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 9]},
 			"faces": {
 				"north": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
@@ -160,11 +160,16 @@
 			"scale": [0.5, 0.5, 0.5]
 		}
 	},
-	"groups": [0, 1, 2, 3, 4,
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
 		{
 			"name": "plant",
 			"origin": [8, 8, 8],
-			"nbt": "{}",
+			"color": 0,
 			"children": [5, 6, 7, 8]
 		}
 	]
