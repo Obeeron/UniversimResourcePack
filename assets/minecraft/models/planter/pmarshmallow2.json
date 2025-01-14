@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "planter/planter"
+		"1": "planter/planter_alchemy"
 	},
 	"elements": [
 		{
@@ -70,55 +70,27 @@
 		},
 		{
 			"name": "we",
-			"from": [5, 9, 2],
-			"to": [5, 21, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1, 17, 8]},
+			"from": [8, 9, 2],
+			"to": [8, 21, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 17, 8]},
 			"faces": {
 				"north": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"east": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
+				"east": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
 				"south": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"west": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
-				"up": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"down": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"}
-			}
-		},
-		{
-			"name": "we2",
-			"from": [11, 9, 2],
-			"to": [11, 21, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 17, 8]},
-			"faces": {
-				"north": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"east": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
-				"south": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"west": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
+				"west": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
 				"up": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
 				"down": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"}
 			}
 		},
 		{
 			"name": "sn",
-			"from": [2, 9, 11],
-			"to": [14, 21, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 15]},
+			"from": [2, 9, 8],
+			"to": [14, 21, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 12]},
 			"faces": {
-				"north": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
+				"north": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
 				"east": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"south": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
-				"west": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"up": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"down": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"}
-			}
-		},
-		{
-			"name": "sn2",
-			"from": [2, 9, 5],
-			"to": [14, 21, 5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 17, 9]},
-			"faces": {
-				"north": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
-				"east": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
-				"south": {"uv": [1.5, 10.5, 3, 12], "texture": "#1"},
+				"south": {"uv": [3, 6, 4.5, 7.5], "texture": "#1"},
 				"west": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
 				"up": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"},
 				"down": {"uv": [6.125, 0.125, 7.625, 1.625], "texture": "#1"}
@@ -170,7 +142,7 @@
 			"name": "plant",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [5, 6, 7, 8]
+			"children": [5, 6]
 		}
 	]
 }
