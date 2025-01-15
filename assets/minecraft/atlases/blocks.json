@@ -4,6 +4,18 @@
             "type": "directory",
             "source": "custom",
             "prefix": "custom/"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:planter/planter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:planter/planter_alchemy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:planter/planter_veggie"
         }
     ]
 }

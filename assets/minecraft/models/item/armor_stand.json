@@ -1,10 +1,10 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/armor_stand"
-  },
-
-  "overrides": [
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000}, "model": "planter/p0" },
     { "predicate": {"custom_model_data": 168001}, "model": "item/canon"}
-  ]
+	]
 }
