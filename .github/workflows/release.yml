@@ -1,9 +1,9 @@
 name: Resourcepack Zipper
 
 on:
-  pull_request: # FIXME: set it back to push, as soon as PAT is sovled
+  push:
     branches:
-      - ci/zip-and-release  # Adjust this branch name if needed
+      - main
 
 jobs:
   build:
